@@ -8,4 +8,5 @@
 target/
 build/
 bin/
+jar/
 tags
